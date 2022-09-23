@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Lê Trường",
+        "birthday":"27-01-2001",
+        "mobilephone":"0379517036",
+        "hometown":"Khoái Châu"
+    },
+    {
+        "name":"Hoàng Minh",
+        "birthday":"08-06-2001",
+        "mobilephone":"0367687877",
+        "hometown":"Hải Dương"
+    },
+    {
+        "name":"Phạm Đức",
+        "birthday":"08-11-2001",
+        "mobilephone":"0987564731",
+        "hometown":"Hải Phòng"
+    },
+    {
+        "name":"Hoàng Dương",
+        "birthday":"20-03-2001",
+        "mobilephone":"0987563711",
+        "hometown":"Hà Nội"
+    }
+]
